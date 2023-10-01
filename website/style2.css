@@ -1,0 +1,25 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: #FFAC00;
+}
+section{
+    display: flex;
+    flex:1;
+    width: 1189px;
+    height: 150px;
+    
+}
+.box{
+    background-color: #FFAC00;
+   border: solid white ;
+   border-width: 5px;
+    font-size: 120px;
+    text-align: center;
+    justify-content: center;
+    color: #0800A7;
+
+}
+footer{
+    color: #0800A7;
+}

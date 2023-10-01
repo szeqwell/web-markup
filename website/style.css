@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+section{
+    display: flex;
+    flex:1;
+    width: 1189px;
+    height: 150px;
+    
+}
+.box{
+    background-color: rgb(255, 162, 0);
+   border: solid black 5px;
+    font-size: 120px;
+    text-align: center;
+    justify-content: center;
+    
+}
+:nth-child(1){
+    
+}
+body{
+   background-color: rgb(236, 151, 16);
+}
+p{
+ margin: 5px;
+}
+
+.img2{
+    
+    margin-top: 450px;
+    
+}
+
+
